@@ -5,4 +5,4 @@
 [submodule "GEModelR"]
 	path = GEModelR
 	url = https://github.com/DavidZenz/GEModelR
-	branch = v0.1.0
+	branch = main
